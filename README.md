@@ -26,6 +26,10 @@ Repository of [Belarus culture web-application](https://github.com/fpmi-hci-2023
 # Usage
 
 This is demo project.
+
+# Reports
+
+Please, visit `reports/` folder to find links on reports.
  
 # Contributing
 
